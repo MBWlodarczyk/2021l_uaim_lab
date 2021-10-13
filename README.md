@@ -1,3 +1,13 @@
+
+# REPO CLONED FROM GITLAB
+# ONLY IN PRESENTATION PURPOSE
+
+# This repo contains:
+* several microservices written in C# .net 5 
+* desktop app written using UWP (Universal Windows Application) 
+* web app written using Razor framework
+
+
 ## Repozytorium stworzone na potrzeby laboratorium przedmiotu UAIM.
 
 Autorzy:
